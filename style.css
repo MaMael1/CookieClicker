@@ -1,0 +1,46 @@
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#div-construcoes{
+
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    background-color: darkgoldenrod;
+    padding: 0.5rem;
+}
+
+#imgCookie{
+    width: 25rem;
+}
+
+#imgCursor{
+    width: 5rem;
+    margin: 1rem;
+    padding: 5px;
+    background-color: white;
+    border-style: solid;
+}
+
+#imgVovo{
+    width: 5rem;
+    margin: 1rem;
+    padding: 5px;
+    background-color: white;
+    border-style: solid;
+}
+
+caption{
+    color: black;
+
+}
+
+picture{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
